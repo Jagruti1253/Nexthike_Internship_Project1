@@ -1,4 +1,5 @@
 **Project 1** 
+
 This is a first project of Internship, a part of the Data Science course. Data provided to us for this project to work on related to 'Bi-cycle Ridings'.
 The purpose of this project for us is to have a better & clear understanding mainly on Data Acquisition & Data Wrangling. This two heads cover various activities & different ways to perform those activities.
 Project is performed in **'Next Hike_Project 1.ipynb'**__ file uploaded in the repository along with the **'Next Hikes_Project 1' PPT Presentation**__ & Output file **'Final_Dataset' in excel**__.
