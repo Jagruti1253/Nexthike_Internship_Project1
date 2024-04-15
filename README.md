@@ -24,11 +24,11 @@ The contents of the project is as shown in following screenshot:
    - Skewness of Data
    - Correlation of Data
 
-  4. **Box Plot** is used in 'Next Hike_Project 1.ipynb' file
+  4. **Box Plot** as a chart is used in 'Next Hike_Project 1.ipynb' file
 
   5. Output file 'Final_Dataset' is in excel format loaded in this repositary
 
-Datasources used for project = Lecture recordings, Reference file that we received through emails & Google search 
+Sources used for project = Lecture recordings, Reference file that we received through emails & Google search 
 
 -- Project Status: [Completed]
 
