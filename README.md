@@ -9,7 +9,7 @@ The contents of the project is as shown in following screenshot:
    - Numpy
    - Seaborn
    - Matplotlib
-   - 
+     
 2. **Data Acquisition:** Three Datasets are loaded in the project .ipynb file - Dataset_1 *(csv format)*, Dataset_2 *(xlsx format)* & Dataset_3 *(csv format)*.
    
 3. **Data Wrangling:** Various activities are covered under Data Wrangling along with the methods that are used to perform those activities, such as:
